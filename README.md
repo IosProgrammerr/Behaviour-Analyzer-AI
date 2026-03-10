@@ -1,5 +1,4 @@
-completed 
-- session part
-- saved user info into db
-- extension part comleted and already installed inmy chrome
-- success fully saved behaviour schema
+what to do next -
+- save user account creations details inside db
+- backend ai setup - guidence coach , progress insights , suggestions
+- looged user UI
